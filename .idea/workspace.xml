@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca4ede11-463f-4056-b398-8c304153c985" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/modules/Computer_Response.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/Number_Generator.java" afterDir="false" />
+    <list default="true" id="ca4ede11-463f-4056-b398-8c304153c985" name="Changes" comment="changes">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Number_Generator.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2QaGjzM5RBODw1WvFdYcGdgC1lD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -36,12 +37,14 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -53,11 +56,93 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685584420225</updated>
-      <workItem from="1685584421213" duration="2364000" />
+      <workItem from="1685584421213" duration="3483000" />
     </task>
+    <task id="LOCAL-00001" summary="Create Computer_Response.java">
+      <created>1685586899089</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685586899089</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Create Main.java">
+      <created>1685586958724</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685586958724</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Create Number_Generator.java">
+      <created>1685586977854</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685586977854</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Moved Number_Generator.java">
+      <created>1685586997641</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685586997641</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Move Number_Generator.java">
+      <created>1685587025507</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685587025507</updated>
+    </task>
+    <task id="LOCAL-00006" summary="changes">
+      <created>1685587039641</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1685587039641</updated>
+    </task>
+    <task id="LOCAL-00007" summary="changes">
+      <created>1685587058791</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1685587058791</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create Computer_Response.java" />
+    <MESSAGE value="Create Main.java" />
+    <MESSAGE value="Create Number_Generator.java" />
+    <MESSAGE value="Moved Number_Generator.java" />
+    <MESSAGE value="Move Number_Generator.java" />
+    <MESSAGE value="changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes" />
   </component>
 </project>
