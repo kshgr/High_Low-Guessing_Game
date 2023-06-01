@@ -23,14 +23,17 @@ public class Main {
 
         while (guess != num)
         {
+            // New Guess
             System.out.print("Guess a number: ");
             guess = scanner.nextInt();
             num_guesses++;
             Computer_Response.response(num, guess);
 
         }
+        // Closing Scanner
         scanner.close();
 
+        // Num-Guesses / Score output. (Lower is better)
         System.out.println("You took only " + num_guesses + " guesses!");
     }
 }
